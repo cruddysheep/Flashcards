@@ -27,4 +27,4 @@
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 - [ ] Further customize and style the card
 
-![]http://g.recordit.co/0bRPe7E7JB.gif
+![](http://g.recordit.co/0bRPe7E7JB.gif)
